@@ -1,2 +1,26 @@
 # mirkoblocker
 Add simple on-off toggle on top of the wykop.pl page which hides NSFW content
+
+Hidden tags:
+"#nsfw"
+"#randomanimeshit"
+"#cycki"
+"#prokuratorboners"
+"#ladnapani"
+"#ladnypan"
+"#bdsm"
+"#zakolanowki"
+"#rajstopyboners"
+"#oczyboners"
+"#anime"
+"#manga"
+"#sadistic"
+"#tyleczki"
+"#discopolo"
+"#furry"
+"#yiff"
+"#hentai"
+"#gentlemanboners"
+"#wolnoscdlapierogownawykopie"
+"#ponczochy"
+"#koreanka"
