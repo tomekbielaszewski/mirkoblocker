@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name       Mirkoblocker
 // @namespace  http://wykop.pl/
-// @version    0.9
+// @version    1.0
 // @description  Blokuje wszelkie NSFW
 // @match      http://www.wykop.pl/*
-// @copyright  2014, @Grizwold
-// @updateURL   http://tomek.ckhost.pl/mirkoonline/mirkoblocker.user.js
-// @installURL  http://tomek.ckhost.pl/mirkoonline/mirkoblocker.user.js
-// @downloadURL http://tomek.ckhost.pl/mirkoonline/mirkoblocker.user.js
+// @copyright  2017, @Grizwold
+// @updateURL   https://github.com/tomekbielaszewski/mirkoblocker/raw/master/tampermonkey/mirkoblocker.user.js
+// @installURL  https://github.com/tomekbielaszewski/mirkoblocker/raw/master/tampermonkey/mirkoblocker.user.js
+// @downloadURL https://github.com/tomekbielaszewski/mirkoblocker/raw/master/tampermonkey/mirkoblocker.user.js
 // ==/UserScript==
 
 $(function(){
