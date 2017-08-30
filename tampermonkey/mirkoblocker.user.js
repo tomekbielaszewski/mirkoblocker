@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name       Mirkoblocker
 // @namespace  https://wykop.pl/
-// @version    1.0
+// @version    1.1
 // @description  Blokuje wszelkie NSFW
 // @match      https://www.wykop.pl/*
 // @copyright  2017, @Grizwold
